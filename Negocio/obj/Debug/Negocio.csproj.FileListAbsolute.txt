@@ -1,0 +1,27 @@
+C:\Users\crist\source\repos\TP2_Castro\Negocio\bin\Debug\Negocio.dll
+C:\Users\crist\source\repos\TP2_Castro\Negocio\bin\Debug\Negocio.pdb
+C:\Users\crist\source\repos\TP2_Castro\Negocio\bin\Debug\Dominio.dll
+C:\Users\crist\source\repos\TP2_Castro\Negocio\bin\Debug\Dominio.pdb
+C:\Users\crist\source\repos\TP2_Castro\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\crist\source\repos\TP2_Castro\Negocio\obj\Debug\Negocio.dll
+C:\Users\crist\source\repos\TP2_Castro\Negocio\obj\Debug\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\bin\Debug\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\bin\Debug\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\bin\Debug\Dominio.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\bin\Debug\Dominio.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\obj\Debug\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\Negocio\obj\Debug\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\bin\Debug\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\bin\Debug\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\bin\Debug\Dominio.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\bin\Debug\Dominio.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\obj\Debug\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\Negocio\obj\Debug\Negocio.pdb

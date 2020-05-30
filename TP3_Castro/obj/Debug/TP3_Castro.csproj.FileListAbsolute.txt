@@ -1,0 +1,120 @@
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\TP3_Castro.dll.config
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\TP3_Castro.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\TP3_Castro.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csc.exe
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csc.exe.config
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csc.rsp
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csi.exe
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csi.exe.config
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\csi.rsp
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.AppContext.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Console.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Compression.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Claims.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.ValueTuple.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\vbc.exe
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\vbc.exe.config
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\vbc.rsp
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\VBCSCompiler.exe
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Dominio.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Dominio.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.dll
+C:\Users\crist\OneDrive\Desktop\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\TP3_Castro.dll.config
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\TP3_Castro.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\TP3_Castro.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csc.exe
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csc.exe.config
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csc.rsp
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csi.exe
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csi.exe.config
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\csi.rsp
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.AppContext.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Console.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Compression.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Claims.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.ValueTuple.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\vbc.exe
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\vbc.exe.config
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\vbc.rsp
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\VBCSCompiler.exe
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Dominio.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Negocio.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Dominio.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Negocio.pdb
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.csproj.CopyComplete
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.dll
+C:\Users\crist\OneDrive\Desktop\crack para subir a github\TP2_Castro\TP3_Castro\obj\Debug\TP3_Castro.pdb
